@@ -1,0 +1,9 @@
+{
+	"name": "sravamthikirangitdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03d59d68-24fa-4e85-a7ef-6b6d1ccf3d15",
+		"tenantId": "1d61aa3c-d3e2-4b38-a3c8-2f26de65a21d"
+	}
+}
