@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "sravamthikirangitdf"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
